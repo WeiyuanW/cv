@@ -1,2 +1,2 @@
 # cv
-a HTML samll project from "The Complete 2022 Web Development Bootcamp" -- udemy
+a samll HTML project from "The Complete 2022 Web Development Bootcamp" in udemy.
